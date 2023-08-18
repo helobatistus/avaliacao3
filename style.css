@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(169, 196, 231);
+}
+h1{
+    font-size: 60px;
+    color: rgb(7, 231, 231);
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    color: rgb(51, 27, 51);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    margin-left: 130px;
+}
